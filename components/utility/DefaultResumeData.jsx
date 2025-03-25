@@ -8,11 +8,11 @@ const DefaultResumeData = {
   socialMedia: [
     {
       socialMedia: "Github",
-      link: "https://github.com/Ibrohimov-Zafar",
+      link: "https://github.com/Fullstack2711/resume-build",
     },
     {
       socialMedia: "LinkedIn",
-      link: "linkedin.com/",
+      link: "https://www.linkedin.com/in/zafar-ibrohimov-501025298/",
     },
     {
       socialMedia: "Website",
